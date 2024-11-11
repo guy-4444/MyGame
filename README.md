@@ -1,9 +1,10 @@
-Meal class:
+#### Meal class:
+
 complete toString
 
-Main:
+#### Main:
 
-add meals
+add meals (2-3) (1-4 ingredients each)
 
 complete CaloriesMap
 
